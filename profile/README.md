@@ -1,5 +1,4 @@
-## :wave: Hi there 
-## We're Nirmini.
+## :wave: Hi there, We're Nirmini.
 ### We make games, Nova, and software.
 ---
 ## What we're working on:
