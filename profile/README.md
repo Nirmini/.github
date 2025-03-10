@@ -13,5 +13,7 @@
   - A game engine allowing for technical innovations not possible on other game engines.
 - Nexus
   - Tools for making cross-platform moderation easier for everyone involved.
+- Bot Maker's Toolkit
+  - An Electron app for making Discord and Guilded bots without code while remaining flexible with the Discord.js and eris libs.
 ---
 ### For more information you can find us mainly in Discord, specifically the [Nirmini Community Discord Guild](https://discord.gg/9Y7aZejzUH).
