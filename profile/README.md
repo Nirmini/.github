@@ -6,7 +6,7 @@
   - HSRF is a from-scratch ROBLOX Sci-Fi game project. Currently on a semi-hold.
 - Nova
   - Nova is a rich and powerful bot for moderating and managing communities spread across multiple platforms.
-  - Nova's commands are open-source, updated with every major release, and available for use under the Mozilla Public License 2.0. Find them [Here](https://github.com/Nirmini/NovaBot-Commands).
+  - Nova is also open-source, [check it out](https://github.com/Nirmini/NovaBot)! 
 - Atlas
   - A performance-based tool to manage resources and orchestrate resources in Nirmini apps.
 - Vector
