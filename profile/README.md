@@ -6,7 +6,7 @@
   - HSRF is a Roblox game that makes use of multiple technical demos and innovations to deliver a repeatable and consistent experience no matter the platform.
 - Nova
   - Nova is a Discord bot made for communities of all sizes on multiple platforms.
-  - Got an idea for Nova? Let us know in a [PR](https://github.com/Nirmini/Novabot)
+  - Got an idea for [Nova](https://github.com/Nirmini/Novabot)? Let us know!
 - Nexus
   - Game Administration and moderation made simple and easy.
 - Bot Maker's Toolkit
