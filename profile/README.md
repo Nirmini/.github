@@ -3,17 +3,14 @@
 ---
 ## What we're working on:
 - HSRF (Horizon Scientific Research Facility)
-  - HSRF is a from-scratch ROBLOX Sci-Fi game project. Currently on a semi-hold.
+  - HSRF is a Roblox game that makes use of multiple technical demos and innovations to deliver a repeatable and consistent experience no matter the platform.
 - Nova
-  - Nova is a rich and powerful bot for moderating and managing communities spread across multiple platforms.
-  - Nova is also open-source, [check it out](https://github.com/Nirmini/NovaBot)! 
-- Atlas
-  - A performance-based tool to manage resources and orchestrate resources in Nirmini apps.
-- Vector
-  - A game engine allowing for technical innovations not possible on other game engines.
+  - Nova is a Discord bot made for communities of all sizes on multiple platforms.
+  - Got an idea for Nova? Let us know in a [PR](https://github.com/Nirmini/Novabot)
 - Nexus
-  - Tools for making cross-platform moderation easier for everyone involved.
+  - Game Administration and moderation made simple and easy.
 - Bot Maker's Toolkit
-  - An Electron app for making Discord and Guilded bots without code while remaining flexible with the Discord.js and eris libs.
+  - An Electron app for designing and hosting your own Discord and/or Guilded bot the way you want it. 
+  - Bot Maker's Toolkit also supports writing your own code, using code blocks, or just using an action list.
 ---
-### For more information you can find us mainly in Discord, specifically the [Nirmini Community Discord Guild](https://discord.gg/9Y7aZejzUH).
+### For more information you can find us mainly in [Nirmini Development Community](https://discord.gg/9Y7aZejzUH) Discord server.
