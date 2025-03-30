@@ -1,4 +1,4 @@
-![White Nirmini logo on a gradient background](https://raw.githubusercontent.com/Nirmini/.github/refs/heads/main/assets/NirminiDevelopment-Bg-V2.png)
+![White Nirmini logo on a gradient background](https://raw.githubusercontent.com/Nirmini/.github/refs/heads/main/assets/NirminiDevelopment-Bg-V3.png)
 ---
 ## :wave: Hi there, We're Nirmini.
 ### We make games, Nova, and software.
