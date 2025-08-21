@@ -2,17 +2,19 @@
 ---
 ## :wave: Hi there, We're Nirmini.
 ### We make games, Nova, and software.
+#### Nirmini / Nirmini Development is an Indie technology/software development studio founded in August 2023 by @thatWest7014.
+#### We're primarily based out of Utah and strive to create things for people, not money. 
 ---
 ## What we're working on currently:
 - NRC - Nirmini Research Complex
-  - NRC is a flagship ROBLOX game by Nirmini Development that puts the player in the pilot seat of multiple disasters and more. Made using innovations and such we've found.
+  - NRC is a ROBLOX production allowing players to explore a large facility complex and navigate their way through various endings, easter eggs, and more.
 - Nova
-  - Nova is our Discord Bot made for communities of all sizes 
-  - Got an idea for [Nova](https://github.com/Nirmini/Novabot)? Let us know!
-- Nexus
-  - Roblox game administration and moderation made easy and simple.
-- Bot Maker's Toolkit
-  - An Electron app for designing and hosting your own Discord and/or Guilded bot the way you want it. 
-  - Bot Maker's Toolkit also supports writing your own code, using code blocks, or just using an action list.
+  - Nova is a homegrown and run Discord bot for moderation, among various other uses for making servers more interactive.
+- Novaworks
+  - A management utility for Nova, as well as a moderation and management utility in ROBLOX
+- Bot Maker's Toolkit **[ON HOLD]**
+  - An Electron/C++ app made to make it easy to make, manage, and run your own Discord bot without any coding knowledge.
+
 ---
-### For more information you can find us in the [Nirmini Development Community](https://discord.gg/9Y7aZejzUH) Discord server or @ [`nirminidevelopment@gmail.com`](mailto:nirminidevelopment@gmail.com).
+### Got any questions? Reach out @ [Our community server](https://discord.gg/9Y7aZejzUH)
+#### Contact @ [`nirminidevelopment@gmail.com`](mailto:nirminidevelopment@gmail.com) or [`west701497@gmail.com`](mailto:west701497@gmail.com).
