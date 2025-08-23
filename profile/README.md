@@ -3,7 +3,7 @@
 ## :wave: Hi there, We're Nirmini.
 ### We make games, Nova, and software.
 #### Nirmini / Nirmini Development is an Indie technology/software development studio founded in August 2023 by @thatWest7014.
-#### We're primarily based out of Utah and strive to create things for people, not money. 
+#### We're primarily based out of Utah and strive to create things for people, not profits. 
 ---
 ## What we're working on currently:
 - NRC - Nirmini Research Complex
