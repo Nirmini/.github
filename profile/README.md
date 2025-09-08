@@ -17,4 +17,4 @@
 
 ---
 ### Got any questions? Reach out @ [Our community server](https://discord.gg/9Y7aZejzUH)
-#### Contact @ [`nirminidevelopment@gmail.com`](mailto:nirminidevelopment@gmail.com) or [`west701497@gmail.com`](mailto:west701497@gmail.com).
+#### Contact @ [`support@nirmini.dev`](mailto:support@nirmini.dev) or [`west701497@gmail.com`](mailto:west701497@gmail.com).
