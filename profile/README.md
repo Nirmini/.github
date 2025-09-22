@@ -1,4 +1,4 @@
-[![White Nirmini Development logo next to Nirmini(bold) Development on a gradient background](https://raw.githubusercontent.com/Nirmini/.github/refs/heads/main/assets/Nirmini-LargerBannerV2.png)](https://thatwest7014.pages.dev/Nirmini)
+[![White Nirmini text with a graident in the first and last i](https://raw.githubusercontent.com/Nirmini/.github/refs/heads/main/assets/Nirmini-Coloured-White.png)](https://nirmini.dev)
 ---
 ## Hi there! :wave:
 ### We're Nirmini Development, or Nirmini for short.
