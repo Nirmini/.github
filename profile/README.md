@@ -1,4 +1,4 @@
-[![White Nirmini text with a graident in the first and last i](https://raw.githubusercontent.com/Nirmini/.github/refs/heads/main/assets/Nirmini-Coloured-White.png)](https://nirmini.dev)
+[![White Nirmini text with a graident in the first and last i](https://nirmini.dev/imgs/nirmini/v4/Nirmini-TextV2.png)](https://nirmini.dev)
 ---
 ## Hi there! :wave:
 ### We're Nirmini Development, or Nirmini for short.
