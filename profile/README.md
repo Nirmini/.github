@@ -17,7 +17,7 @@
 
 ## 👋 Who We Are
 
-We're **Nirmini Development** — an indie technology and game development studio. We build Discord tooling, narrative-driven games, and software that just works.
+We're **Nirmini Development** (Or just "Nirmini" for short) - an indie technology and game development studio. We build Discord tooling, narrative-driven games, and software that just works.
 
 ---
 
