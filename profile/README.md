@@ -28,9 +28,10 @@ A multi-purpose Discord bot and moderation platform built to manage communities 
 
 | Repo | Description |
 |------|-------------|
-| [Novaworks](https://github.com/thatWest7014/Novacore) | Lightweight Discord bot base to build off of |
+| [Novacore](https://github.com/thatWest7014/Novacore) | Lightweight Discord bot base to build off of |
 | [NovaAPI](https://github.com/Nirmini/NirminiAPIs) | API powering Nova's cross-platform communication |
 | [NovaBot](https://github.com/Nirmini/Nova) | The fully built Discord bot for communities and moderators |
+| [Novaworks](https://github.com/Nirmini/Novaworks) | A moderation platform for Roblox that actually works |
 
 ---
 
